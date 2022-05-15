@@ -1,0 +1,14 @@
+:root {
+    /* main color palette */
+    --saffron: #efc20d;
+    --russet: #7a4419;
+    --dark-lava: #463f3a;
+    --tyrian-purple: #660036;
+    --cinnabar: #dd442c;
+    --vermilion: #d33a22;
+}
+
+.bg-saffron-gradient {
+    background-color: var(--saffron);
+    background-image: var(--bs-gradient);
+}
