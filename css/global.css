@@ -12,3 +12,7 @@
     background-color: var(--saffron);
     background-image: var(--bs-gradient);
 }
+
+.problem-overview {
+    background-color: var(--vermilion);
+}
