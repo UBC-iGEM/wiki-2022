@@ -1,0 +1,39 @@
+:root {
+    /* PALETTE 3 */
+    --orange-golden: #c1351f;
+    --tangerine: #ef881a;
+    --amber: #ffc100;
+    --jasmine: #ffe499;
+    --russet: #774318;
+    --dark-lava: #463f3a;
+    --tyrian-purple: #660036;
+}
+
+.title {
+    text-align: center;
+    color: var(--dark-lava);
+}
+
+#title--description {
+    text-align: center;
+    color: var(--russet);
+}
+
+.info-text {
+    text-align: center;
+    color: var(--tangerine);
+}
+
+.bg-saffron-gradient {
+    background-color: var(--tangerine);
+    background-image: var(--bs-gradient);
+}
+
+.problem-overview {
+    background-color: var(--amber);
+    margin-bottom: 0 !important;
+}
+
+.footer {
+    background-color: var(--tyrian-purple);
+}
