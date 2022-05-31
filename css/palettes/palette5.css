@@ -1,12 +1,12 @@
 :root {
-    /* PALETTE 4 */
+    /* PALETTE 5 */
     --orange-golden: #c1351f;
     --tangerine: #ef881a;
     --amber: #ffc100;
     --jasmine: #ffe499;
     --russet: #774318;
     --dark-lava: #463f3a;
-    --tyrian-purple: #660036;
+    --dark-cornflower-blue: #39487f;
 }
 
 .title {
@@ -35,5 +35,5 @@
 }
 
 .footer {
-    background-color: var(--tyrian-purple);
+    background-color: var(--dark-cornflower-blue);
 }

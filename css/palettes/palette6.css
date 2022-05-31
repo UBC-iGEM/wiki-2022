@@ -1,0 +1,37 @@
+:root {
+    /* PALETTE 6 */
+    --dark-lava: #504136;
+    --mikado-yellow: #ffc800;
+    --princeton-orange: #ff8b33;
+    --sap-green: #43792a;
+    --bottle-green: #0b6e4f;
+}
+
+.title {
+    text-align: center;
+    color: var(--sap-green);
+}
+
+#title--description {
+    text-align: center;
+    color: var(--sap-green);
+}
+
+.info-text {
+    text-align: center;
+    color: var(--dark-lava);
+}
+
+.bg-saffron-gradient {
+    background-color: var(--princeton-orange);
+    background-image: var(--bs-gradient);
+}
+
+.problem-overview {
+    background-color: var(--mikado-yellow);
+    margin-bottom: 0 !important;
+}
+
+.footer {
+    background-color: var(--bottle-green);
+}
