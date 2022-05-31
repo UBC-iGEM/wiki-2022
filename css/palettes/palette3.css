@@ -1,0 +1,32 @@
+:root {
+    /* PALETTE 3 */
+    --liberty: #545aa7;
+    --platinum: #e5e4e2;
+    --gold-crayola: #e6be8a;
+    --deep-saffron: #ff9933;
+    --red-orange: #ff4500;
+}
+
+.title {
+    text-align: center;
+    color: var(--gold-crayola);
+}
+
+.info-text {
+    text-align: center;
+    color: var(--platinum);
+}
+
+.bg-saffron-gradient {
+    background-color: var(--red-orange);
+    background-image: var(--bs-gradient);
+}
+
+.problem-overview {
+    background-color: var(--deep-saffron);
+    margin-bottom: 0 !important;
+}
+
+.footer {
+    background-color: var(--liberty);
+}
