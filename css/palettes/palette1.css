@@ -9,15 +9,21 @@
 
 .title {
     text-align: center;
-    color: var(--green-yellow-crayola);
+    color: var(--pine-green);
+}
+
+#title--description {
+    text-align: center;
+    color: var(--pumpkin);
 }
 
 .info-text {
     text-align: center;
+    color: var(--green-yellow-crayola);
 }
 
 .bg-saffron-gradient {
-    background-color: var(--pumpkin);
+    background-color: var(--carribean-green);
     background-image: var(--bs-gradient);
 }
 
