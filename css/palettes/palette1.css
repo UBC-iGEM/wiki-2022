@@ -1,0 +1,31 @@
+:root {
+    /* PALETTE 1 */
+    --pumpkin: #ff7011;
+    --deep-saffron: #fc9527;
+    --green-yellow-crayola: #fcec9a;
+    --carribean-green: #39cbab;
+    --pine-green: #0a7d6e;
+}
+
+.title {
+    text-align: center;
+    color: var(--green-yellow-crayola);
+}
+
+.info-text {
+    text-align: center;
+}
+
+.bg-saffron-gradient {
+    background-color: var(--pumpkin);
+    background-image: var(--bs-gradient);
+}
+
+.problem-overview {
+    background-color: var(--deep-saffron);
+    margin-bottom: 0 !important;
+}
+
+.footer {
+    background-color: var(--pine-green);
+}
